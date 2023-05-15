@@ -1,0 +1,10 @@
+/* *seleciona tudo*/
+*{
+    margin: 0; /*espaçamento externo, separa um elemento do outro*/
+    padding: 0; /*espaçamento interno, separa um conteúdo de uma tag por exemplo*/
+    box-sizing: border-box; /*facilita que trabalhe com largura e altura no CSS*/
+}
+
+ul {
+    list-style: none;
+}
